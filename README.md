@@ -1,9 +1,5 @@
 # Tela de Login Instagram
 
-<style> 
-    h1:nth-child(1){font-size: 36px;}
-</style>
-
 <img src="./img/md-1.png" width="577">
 
 # Sobre
