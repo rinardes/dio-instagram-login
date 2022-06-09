@@ -8,7 +8,7 @@ Clone responsivo da tela de login do Instagram, feito com CSS e Html puros. Para
 
 Decidi clonar a página de login que aparece quando você não tem nenhum usuário já reconhecido.
 
-# Coisas interessantes que aconteceram
+# Aprendizados
 
 Já que se trata de um projeto mais fins educativos, acho interessante compartilhar algumas descobertas:
 
